@@ -8,7 +8,6 @@ This is not just another portfolio; it's a canvas showcasing immersive web desig
 
 <img width="600" alt="Screenshot 2023-08-03 000205" src="https://github.com/snow369/Portfolio/assets/115411589/1cdea520-ac84-4b14-bd21-98e1d27d56ae">
 
-
 <img width="600" alt="Screenshot 2023-08-03 000254" src="https://github.com/snow369/Portfolio/assets/115411589/f04588d8-3bce-46c4-8e08-8f0b293cf55d">
 
 
